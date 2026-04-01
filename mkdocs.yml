@@ -1,3 +1,5 @@
 site_name: Smarttask Documentation
 nav:
   - Home: Index.md
+  - Authentication: auth.md
+  
